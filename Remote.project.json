@@ -2,8 +2,11 @@
   "name": "Remote",
   "tree": {
     "$path": "src",
-    "DevPackages": {
-      "$path": "DevPackages"
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "Packages": {
+        "$path": "DevPackages"
+      }
     }
   }
 }
